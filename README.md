@@ -6,11 +6,11 @@ The model is designed to run on microcontrollers (Arduino, ESP32, etc.) for **re
 ---
 
 ## 📂 Folder Structure  
-audio_inferencing/
+``` audio_inferencing/
  ├─ examples/         # Example Arduino sketches
  ├─ src/              # Model source files
  └─ library.properties
-
+```
 
 ---
 
